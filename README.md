@@ -6,7 +6,7 @@
 ## Content                                                                                             
 * The java class file contains: <br>
 a) Methods for creating connection. <br>
-b) A method for a running an array of queries. <br>
+b) A method for running an array of queries. <br>
 c) A method for reading SQL queries from file. <br>
 c) Line separators methods. <br>
 c) A test method.
